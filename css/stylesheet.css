@@ -1,0 +1,130 @@
+
+.navbar{
+	min-height:33px;
+	margin-bottom: 0;
+	border-radius: 0;
+}
+.main-color-bg{
+	background-color: #212529 !important;
+	border-color:black !important;
+	color:#ffffff;
+}
+.panel-heading{
+	min-height:20px;
+}
+#content{
+margin-top: 20px;
+}
+.box{
+	float:left;
+	margin-bottom: 10px;
+
+}
+.blog{
+	background: #6bc699;
+	text-align: center;
+	height:120px;
+	cursor:pointer;
+}
+.blog h3{
+	padding:20px;
+}
+.btn-submit{
+	border-radius: 0px;
+	height: 50px;
+	margin-top: 25px;
+
+	background-color: #6bc699;
+	width: 300px;
+}
+.btn-submit:hover{
+	background: #5fba45;
+	text-decoration: none;
+}
+.block{
+	margin-top:10px;
+	float:left;
+
+}
+#add{
+	margin-top:30px;
+}
+.addcollege{
+	width:280px;
+	margin:auto;
+	color:#4286f4
+}
+.addcollege h1{
+	float:left;
+	font-size: 30px;
+	border-bottom: 6px solid white;
+	margin-bottom: 50px;
+	margin-left:60px;
+	padding: 13px;
+}
+.textbox{
+	width:100%;
+	overflow: hidden;
+	font-size: 20px;
+	padding: 10px 0;
+	margin:8px 0;
+	border-bottom: 1px solid blue;
+}
+.textbox i{
+	width:26px;
+	float: left;
+	text-align: center;
+
+}
+.textbox input{
+	border: none;
+	outline: none;
+	background: none;
+	font-size: 18px;
+	width:80%;
+	float:left;
+	margin: 0 10px;
+}
+.btn{
+	border-radius: 0px;
+	height: 50px;
+	background-color: #5dbfd4;
+	width: 100%;
+	cursor: pointer;
+}
+.btn:hover{
+	background: #5fba45;
+	text-decoration: none;
+}
+/* unilist of univesity.php*/
+
+.unilist{
+	margin-top:30px;
+}
+/* buttonedit&delete*/
+.btn-edit {
+	border-radius: 0px;
+	height: 30px;
+	background-color: #5dbfd4;
+	width: 70%;
+	cursor: pointer;
+}
+.btn-edit:hover{
+	background: #5fba45;
+	text-decoration: none;
+}
+.btn-delete {
+	border-radius: 0px;
+	height: 30px;
+	background-color: #5dbfd4;
+	width: 70%;
+	cursor: pointer;
+}
+.btn-delete:hover{
+	background: #5fba45;
+	text-decoration: none;
+}
+.btn-save{
+	width: 20%;
+	
+}
